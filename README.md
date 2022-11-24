@@ -2,8 +2,9 @@
 Ingeniero de Sistemas, con mas de 18 años de experiencia en Desarrollo de Software en Delphi XE | Php | Full Stack Developer | Java Script | NodeJs | npm | React | Redux | Express | Sequelize | CSS | Bootstrap | HTML | Sql Server | Postgres | MySql | Sqlite. Capacidad para afrontar Circunstancias de trabajo bajo presión y orientación al logro de resultados de la organización.<br>
 
 Contactame : 
-email : sirjhan@gmail.com
-Telefono : 3102102203
+Linkedin : https://www.linkedin.com/in/sirjhan/ <br>
+email : sirjhan@gmail.com <br>
+Telefono : 3102102203 <br>
 
 
 ## 🌐 Socials:
